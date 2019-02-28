@@ -1,0 +1,26 @@
+---
+title: "My Website"
+---
+
+#Primera práctica Git.
+ Voy volando
+ 
+# practica de título
+## Dos numerales  y prueba
+### Tres numerales y prueba
+
+# Tipos de letra
+**Prueba de negrita ( se pone entre 2 asteriscos**
+*italica palabra se coloca entre 1 asterisco*
+
+
+## Parrafo justificado: ejemplo el parrafo empieza con  (<p align="justify">) y finaliso con (</p>)
+
+
+<p align="justify">
+El opositor venezolano Juan Gauidó recibió el reproche del vicepresidente estadounidense por su fracaso respecto a los planes golpistas en Venezuela. Mas noticias en el siguiente link
+</p>
+
+ [Página](https://www.telesurtv.net/seccion/news)
+ 
+ 

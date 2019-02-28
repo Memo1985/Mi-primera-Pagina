@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  title: "Jose Ramirez"
+  left:
+    - text: "pincipal"
+      href: index.html
+    - text: "figuras"
+      href: about.html
+output:
+html_document:
+theme: journal
+
